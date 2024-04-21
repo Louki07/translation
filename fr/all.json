@@ -1,0 +1,55 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Langue",
+    "TRANSLATION_INFO_SETTINGS": "\n\nLa traduction est toujours en cours ; vous verrez un mélange d'anglais et de la langue sélectionnée. <br>Vous pouvez nous aider à traduire en lisant <guideLink>le tutoriel</guideLink> et ensuite en utilisant <editorLink>notre éditeur web</editorLink>."
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Créer",
+      "REMOVE": "Retirer",
+      "DELETE": "Supprimer",
+      "EDIT": "Éditer",
+      "DUPLICATE": "Dupliquer",
+      "APPLY": "Appliquer",
+      "UPDATE": "Actualiser",
+      "VIEW": "Voir",
+      "HIDE": "Masquer"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Profil",
+      "MY_PROFILE": "Mon profil",
+      "IMPORT_EXPORT_TITLE": "Importer et Exporter",
+      "NAVIGATION_TITLE": "Navigation",
+      "AUTHENTICATION_TITLE": "Authentification",
+      "ADVANCED_TITLE": "Paramètres Avancés",
+      "DANGER_ZONE_TITLE": "Zone de Danger",
+      "DANGER_ZONE": {
+        "TITLE": "Zone de Danger"
+      },
+      "SYNCING": {
+        "TITLE": "Synchronisation",
+        "KEYWORDS": "Forcer la synchronisation des images & PDFs"
+      },
+      "VERSION": {
+        "TITLE": "Version de l'Application",
+        "KEYWORDS": "Version"
+      },
+      "SUPPORT": {
+        "TITLE": "Support"
+      },
+      "PRIVACY": {
+        "TITLE": "Confidentialité",
+        "KEYWORDS": "confidentialité"
+      }
+    },
+    "FLASHCARDS": {
+      "AI": {
+        "ENABLE": {
+          "TITLE": "Autoriser les Fonctionnalités de l'AI"
+        }
+      }
+    }
+  }
+}

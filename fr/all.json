@@ -1,6 +1,6 @@
 {
   "LANGUAGE": {
-    "LANGUAGE_WORD": "Langue",
+    "LANGUAGE_WORD": "Langage",
     "TRANSLATION_INFO_SETTINGS": "\n\nLa traduction est toujours en cours ; vous verrez un mélange d'anglais et de la langue sélectionnée. <br>Vous pouvez nous aider à traduire en lisant <guideLink>le tutoriel</guideLink> et ensuite en utilisant <editorLink>notre éditeur web</editorLink>."
   },
   "COMMON": {
@@ -20,6 +20,9 @@
     "ACCOUNT": {
       "PROFILE_TITLE": "Profil",
       "MY_PROFILE": "Mon profil",
+      "PROFILE": {
+        "KEYWORDS": "Profil d'Utilisateur Personnel"
+      },
       "IMPORT_EXPORT_TITLE": "Importer et Exporter",
       "NAVIGATION_TITLE": "Navigation",
       "AUTHENTICATION_TITLE": "Authentification",
@@ -83,12 +86,71 @@
       }
     },
     "EARN_CREDIT": {
+      "TITLE": "Gagner des Crédits",
+      "INVITE_FRIENDS_REMNOTE": "Inviter vos amis sur RemNote!",
+      "CREDIT_BALANCE": "Solde des Crédits",
+      "TOAST_SUBSCRIBE": "Vos crédits seront appliqués automatiquement lorsque vous souscrirez à RemNote Pro. Choisissez un plan ci-dessous pour commencer !",
+      "TOAST_RENEW": "Vos crédits seront appliqués automatiquement lors du renouvellement de votre abonnement actuel.",
+      "APPLY_CREDIT": "Appliquer vos crédits",
+      "INVITE_TEXT": "Invitez des amis et gagnez des crédits",
+      "HANG_ON": "Tenez bon",
+      "CREATE_ACCOUNT": "Créez un compte pour inviter des amis",
+      "ENTER_VALID_EMAIL": "Entrez un email valide!",
+      "SEND_INVITE": "Envoyer une invitation",
+      "FRIEND_ALREADY_ON_REMNOTE": "Votre ami est déjà sur RemNote",
+      "INVITE_ERROR": "Quelque chose a mal tourné. Veuillez réessayer plus tard.",
+      "VERIFY_EMAIL": "Pour inviter quelqu'un, vérifiez d'abord votre email. ",
       "INVITE_EMAIL": "Inviter par email",
       "EMAIL_PLACEHOLDER": "amicurieux@gmail.com",
       "INVITE": "Inviter",
       "SHARE_LINK": "Partager le lien d'invitation",
       "COPIED": "Copié!",
-      "INVITE_COPIED": "Lien d'invitation copié!"
+      "INVITE_COPIED": "Lien d'invitation copié!",
+      "COPYLINK": "Copier le lien",
+      "FRIENDS_TITLE": "Amis",
+      "INVITED_YOU": "(vous a invité)",
+      "NOT_CONFIRMED_EMAIL": "(n'a pas confirmé son email)"
+    },
+    "GLOBAL_INTERFACE": {
+      "DARK_MODE": {
+        "TITLE": "Mode sombre"
+      }
+    },
+    "SIDEBAR": {
+      "CUSTOMIZE_SIDEBAR_SECTIONS": {
+        "TITLE": "Customiser les sections de la barre latérale"
+      },
+      "SORT_SIDEBAR": {
+        "TITLE": "Trier la barre latérale",
+        "KEYWORDS": "Trier la barre latérale de A à Z"
+      }
+    },
+    "NOTIFICATIONS": {
+      "ENABLE_PUSH_TITLE": "Autoriser les notifications push?",
+      "ENABLE_EMAIL_TITLE": "Autoriser les notifications par email?",
+      "TOGGLE_TITLE": "Filtrer les notifications",
+      "DESCRIPTIONS": {
+        "INVITE": {
+          "TITLE": "Notifications d'invitation"
+        }
+      }
     }
+  },
+  "TAGS": {
+    "TAG": "Tag",
+    "PINNED_TAGS": "Tags épinglés",
+    "YOUR_TAGS": "Vos Tags",
+    "INSERT_PROPERTIES": "Insérer des Propriétés"
+  },
+  "TEMPLATES": {
+    "TEMPLATE_one": "Modèle",
+    "TEMPLATE_other": "Modèles",
+    "CREATE_TEMPLATE": "Créer un Modèle",
+    "NEW_TEMPLATE": "Nouveau Modèle",
+    "PROPERTY_one": "Propriété",
+    "PROPERTY_other": "Propriétés",
+    "ADD_NEW_PROPERTY": "Ajouter une Nouvelle Propriété",
+    "VIEW_CONFIGURATION": "Configurer le Tag",
+    "HIDE_CONFIGURATION": "Masquer la configuration"
   }
 }

@@ -49,7 +49,46 @@
         "ENABLE": {
           "TITLE": "Autoriser les Fonctionnalités de l'AI"
         }
+      },
+      "GENERAL": {
+        "RESET_ALL": {
+          "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres des flashcards à leurs valeurs par défaut ?"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "Nombre maximal de nouvelles cartes par jour"
+        },
+        "STALE_CARDS_PER_DAY": {
+          "TITLE": "Nombre maximal de cartes obsolètes par jour"
+        },
+        "TYPE_ANSWER": {
+          "TITLE": "Écrire la réponse"
+        },
+        "NEXT_DAY_STARTS_AT": {
+          "TITLE": "Le jour suivant commence à",
+          "DESCRIPTION": "De nouvelles cartes apparaissent dans votre file d'attente chaque jour à cette heure."
+        }
+      },
+      "VISUAL": {
+        "SHOW_NEXT_REVIEW_TIMES": {
+          "DESCRIPTION": "Affichez le temps restant jusqu'à la prochaine révision sur chaque bouton de réponse."
+        }
+      },
+      "ORDERING": {
+        "DOCUMENT_CLUSTERS": {
+          "DESCRIPTION": "Préférer pratiquer les Rems provenant de documents connectés ensemble."
+        },
+        "REFERENCE_CLUSTERS": {
+          "DESCRIPTION": "Préférer pratiquer ensemble les Rems qui se référencent mutuellement."
+        }
       }
+    },
+    "EARN_CREDIT": {
+      "INVITE_EMAIL": "Inviter par email",
+      "EMAIL_PLACEHOLDER": "amicurieux@gmail.com",
+      "INVITE": "Inviter",
+      "SHARE_LINK": "Partager le lien d'invitation",
+      "COPIED": "Copié!",
+      "INVITE_COPIED": "Lien d'invitation copié!"
     }
   }
 }

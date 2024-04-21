@@ -152,5 +152,144 @@
     "ADD_NEW_PROPERTY": "Ajouter une Nouvelle Propriété",
     "VIEW_CONFIGURATION": "Configurer le Tag",
     "HIDE_CONFIGURATION": "Masquer la configuration"
+  },
+  "TABLES": {
+    "PRIMARY_COLUMN_TITLE": "Nom",
+    "UNTITLED_PROPERTY_TITLE": "Propriété sans titre",
+    "TABLE_CREATION": {
+      "EXISTING_TAG": {
+        "TITLE": "Utiliser un Tag existant"
+      }
+    },
+    "MENUS": {
+      "TAG": {
+        "TAG_TITLE": "Nom du Tag",
+        "RENAME_TAG": "Renommer le Tag",
+        "VIEW_TAG": "Voir le Tag",
+        "EDIT_TABLE_NAME": "Éditer le nom du tableau",
+        "PRESS_TO_SAVE": "Appuyer sur ↩ pour sauvegarder"
+      },
+      "FILTER": {
+        "FILTER_TITLE": "Filtre",
+        "ADD_ADVANCED_FILTER": "Ajouter un Filtre Avancé"
+      },
+      "SORT": {
+        "SORT_TITLE": "Trier"
+      },
+      "TABLE_CONFIGURATION": {
+        "TABLE_CONFIGURATION_TITLE": "Tableau",
+        "LIST_CONFIGURATION_TITLE": "Liste",
+        "ALL": "Tout",
+        "VIEW_AS": {
+          "TABLE_VIEW": "Tableau",
+          "NORMAL_PORTAL_VIEW": "Portail",
+          "LIST_VIEW": "Liste"
+        },
+        "PROPERTIES_TITLE": "Propriétés",
+        "PROPERTIES_CONFIGURATION_TITLE": "Configurer",
+        "ZOOM_IN_TO_TABLE_TITLE": "Zoomer dans le tableau",
+        "ZOOM_IN_TO_LIST_TITLE": "Zoomer dans la liste",
+        "DELETE_TABLE": "Supprimer le tableau",
+        "DELETE_LIST": "Supprimer la liste"
+      }
+    }
+  },
+  "SIDEBAR": {
+    "LABEL_ALL_NOTES": "Toutes les notes",
+    "LABEL_TODAYS_NOTE": "Note Quotidienne",
+    "LABEL_FLASHCARDS": "Flashcards",
+    "LABEL_EDIT_LATER": "Éditer plus tard",
+    "LABEL_COMMUNITY": "Flashcards partagées",
+    "LABEL_TUTORIALS": "Tutoriels"
+  },
+  "PAGES": {
+    "ALL_NOTES": {
+      "TITLE": "Toutes les notes",
+      "SORT": {
+        "RECENTLY_MODIFIED": "Modifié récemment",
+        "RECENTLY_CREATED": "Créé récemment",
+        "BY_CREATION_TIME": "Par date de création",
+        "BY_TITLE": "Par titre",
+        "BY_MODIFICATION": "Par modification",
+        "ASCENDING": "A -> Z",
+        "DESCENDING": "Z -> A"
+      }
+    }
+  },
+  "SOURCES": {
+    "LINK_SOURCE": {
+      "LABEL": "Lien",
+      "ENTER_URL": "Entrer l'URL",
+      "INVALID_URL": "URL invalide",
+      "OPEN_IN_READER": "Ouvrir dans le lecteur",
+      "SEARCH_PLACEHOLDER": "Copier un lien ou rechercher une Référence",
+      "LINK": "Lien"
+    },
+    "UPLOAD_SOURCE": {
+      "LABEL": "Exporter",
+      "SELECT_FILES": "Sélectionnez les fichiers",
+      "SELECT_FILES_TO_UPLOAD": "Sélectionnez les fichiers à télécharger",
+      "INVALID": "Format du fichier incorrect!",
+      "UPLOADING": "Exportation...",
+      "PDF": "PDF"
+    },
+    "WIKIMEDIA_COMMONS": {
+      "INVALID": "Format du fichier incorrect!",
+      "UPLOADING": "Exportation...",
+      "PDF": "PDF"
+    }
+  },
+  "NOTIFICATIONS": {
+    "INVITE": {
+      "ACCEPT": "Accepter l'invitation",
+      "REJECT": "Rejeter"
+    },
+    "NEW_FOLLOWER": {
+      "BODY": "vous suit"
+    },
+    "ARTICLE_VIEWS": {
+      "BODY_1": "Votre document"
+    },
+    "NEW_COMMENT": {
+      "BODY": "a commenté sur",
+      "BODY_ARTICLE": "a commenté sur votre document",
+      "BODY_COMMENT": "a répondu à votre commentaire",
+      "BODY_GROUP": "a envoyé un message à votre groupe"
+    },
+    "POPUP_TITLE": "Notifications Récentes",
+    "ARTICLE_DEFAULT": "Votre document",
+    "GROUP_DEFAULT": "Votre groupe"
+  },
+  "POPUPS": {
+    "CREATE_CONTENT_OPTIONS": {
+      "DOCUMENT": {
+        "TITLE": "Document"
+      },
+      "QUICK_ADD": {
+        "TITLE": "Ajout rapide"
+      },
+      "TODAYS_DOCUMENT": {
+        "TITLE": "Document quotidien"
+      },
+      "FOLDER": {
+        "TITLE": "Dossier",
+        "DESCRIPTION": "Organisez les documents en dossiers. "
+      },
+      "TABLE_TAG": {
+        "TITLE": "Tag & Tableau"
+      },
+      "UPLOAD_FILE": {
+        "TITLE": "Exporter & Annoter le Fichier"
+      }
+    }
+  },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "0": {
+          "TITLE": "Créer un dossier"
+        }
+      }
+    }
   }
 }
